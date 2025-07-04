@@ -17,3 +17,5 @@ This project is a command-line application that simulates a hospital billing sys
 
 ### Project Structure
 The application is designed using a modular, object-oriented approach to ensure clarity, reusability, and ease of maintenance.
+
+### Screenshots
