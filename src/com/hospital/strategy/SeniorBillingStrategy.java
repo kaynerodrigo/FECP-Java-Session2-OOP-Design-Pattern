@@ -4,6 +4,6 @@ package com.hospital.strategy;
 public class SeniorBillingStrategy implements BillingStrategy {
     // To be implemented: the calculate method
     // test
-    // test
+    // again
 }
 // Create similar empty files for CashBillingStrategy and SeniorBillingStrategy
