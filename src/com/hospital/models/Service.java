@@ -1,3 +1,4 @@
+package com.hospital.models;
 
 // Dzelle will implement this
 public class Service {
